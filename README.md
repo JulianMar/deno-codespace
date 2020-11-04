@@ -6,3 +6,4 @@ Deno app template using Github Codespace.
 
 * Deno: https://deno.land/
 * Configuring Codespaces for your project: https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/configuring-codespaces-for-your-project
+* devcontainer.json reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference

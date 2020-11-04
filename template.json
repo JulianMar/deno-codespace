@@ -1,0 +1,14 @@
+{
+  "name": "deno-codespace",
+  "repository": "https://github.com/tgm-templates/deno-codespace",
+  "description": "Deno app template using Github Codespace",
+  "variables": [
+    {
+      "name": "appName",
+      "description": "App name"
+    }
+  ],
+  "files": [
+    ".devcontainer/devcontainer.json"
+  ]
+}
